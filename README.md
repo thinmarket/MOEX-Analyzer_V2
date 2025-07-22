@@ -2,7 +2,7 @@
 
 ## О проекте
 
-**MOEX-Analyzer (ANALIZ_final)** — это полностью автоматизированная система для ежедневного сбора, анализа и ранжирования данных Московской биржи с сохранением истории по дням. Проект является развитием и улучшением базовой версии [MOEX-Analyzer-main]([https://github.com/yourusername/MOEX-Analyzer-main](https://github.com/thinmarket/MOEX-Analyzer)).
+**MOEX-Analyzer (ANALIZ_final)** — это полностью автоматизированная система для ежедневного сбора, анализа и ранжирования данных Московской биржи с сохранением истории по дням. Проект является развитием и улучшением базовой версии [MOEX-Analyzer-main](https://github.com/thinmarket/MOEX-Analyzer).
 
 ---
 
